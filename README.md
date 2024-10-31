@@ -1,4 +1,4 @@
-D435i实现倒车影像系统
+D435i实现倒车影像系统，代码在Final里面的Final
 
 1    从Intel官网github页面下载Intel RealSense SDK 2.0
 
